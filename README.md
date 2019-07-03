@@ -14,7 +14,7 @@ DW1820A无线网卡驱动：http://bbs.pcbeta.com/viewthread-1806949-1-1.html
 
 主硬盘：INTEL 760P NVME 256G（已加入代码使MAC识别NVME固态硬盘）
 
-无线网卡：博通 DW1820A（近乎完美）
+无线网卡：博通 DW1820A（原配英特尔AC9462无解，更换DW1820A后近乎完美）
 
 USB正常
 
