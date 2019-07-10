@@ -3,6 +3,8 @@
 
 安装包：http://bbs.pcbeta.com/viewthread-1815882-1-1.html
 
+Clover配置文件：
+https://github.com/283330601/shinelon-t3ti-Hackintosh/blob/master/config.plist
 
 DW1820A无线网卡驱动：http://bbs.pcbeta.com/viewthread-1806949-1-1.html
 
