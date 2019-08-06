@@ -1,5 +1,5 @@
 # shinelon-t3ti-Hackintosh
-炫龙T3TI  9750H+1660TI 安装macOS 10.14.5
+炫龙T3TI  9750H+1660TI 安装macOS 10.14.6
 
 安装包：http://bbs.pcbeta.com/viewthread-1815882-1-1.html
 
