@@ -1,7 +1,10 @@
 # shinelon-t3ti-Hackintosh
+
 2019年8月7日 已测试可无痛更新10.14.6
 
-炫龙T3TI  9750H+1660TI 安装macOS 10.14.5
+整个EFI文件夹请见release
+
+炫龙T3TI  9750H+1660TI 安装macOS 10.14.5 
 
 安装包：http://bbs.pcbeta.com/viewthread-1815882-1-1.html
 
