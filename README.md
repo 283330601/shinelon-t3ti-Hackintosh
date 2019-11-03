@@ -12,7 +12,9 @@ ACPIBatteryManager.kext在/Volumes/Untitled 1/EFI/CLOVER/kexts/Other/Backup目�
 ---
 更新的EFI下载详见
 ---
+
 https://github.com/283330601/shinelon-t3ti-Hackintosh/releases
+
 另外，如果有跟我一样换了DW1820A的朋友，安装如果卡禁行，可以拆掉无线网卡再安装。
 ---
 
@@ -32,7 +34,6 @@ https://github.com/283330601/shinelon-t3ti-Hackintosh/releases
 
 
 2019年8月7日 已测试可无痛更新10.14.6
-
 ![](https://github.com/283330601/shinelon-t3ti-Hackintosh/blob/master/104908ro0ibywoyzg5yzii.jpg) 
 
 整个EFI文件夹请见release
