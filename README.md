@@ -18,7 +18,11 @@ https://github.com/283330601/shinelon-t3ti-Hackintosh/releases
 
 
  CPU          intel 9750h
+ 
  GPU          UHD 630 + NVIDIA 1660TI
+ 
  RAM          16G DDR4 2666
+ 
  SSD          intel 760P 256G M.2.NVME
+ 
  WIFI CARD    DW1820A
