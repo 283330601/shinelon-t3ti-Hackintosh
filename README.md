@@ -11,5 +11,3 @@ ACPIBatteryManager.kext在/Volumes/Untitled 1/EFI/CLOVER/kexts/Other/Backup目�
 
 
 2019年10月31日更新10.15.1的EFI文件夹
-
-2019年10月31日更新10.15.1的EFI文件夹
