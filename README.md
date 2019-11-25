@@ -6,7 +6,7 @@
 
 2019年11月03日发现，在kext/other中放入ACPIBatteryManager.kext可解决电池电量显示问题，顺带解决了触摸板设置页面空白问题。	
 ---
-ACPIBatteryManager.kext在/Volumes/Untitled 1/EFI/CLOVER/kexts/Other/Backup目录下
+ACPIBatteryManager.kext在/EFI/CLOVER/kexts/Other/Backup目录下
 ---
 
 
