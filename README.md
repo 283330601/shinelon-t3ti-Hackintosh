@@ -1,5 +1,5 @@
 # shinelon-t3ti-Hackintosh
-炫龙T3TI-9750H+1660TI 安装macOS 10.15.1
+炫龙T3TI-9750H+1660TI 安装macOS 10.15.3
 
 
 
@@ -10,4 +10,4 @@ ACPIBatteryManager.kext在/EFI/CLOVER/kexts/Other/Backup目录下
 ---
 
 
-2019年10月31日更新10.15.1的EFI文件夹
+2020年2月8日更新10.15.3的EFI文件夹
