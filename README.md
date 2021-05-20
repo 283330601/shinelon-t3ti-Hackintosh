@@ -1,12 +1,14 @@
 # shinelon-t3ti-Hackintosh
-炫龙T3TI-9750H+1660TI 安装macOS Big Sur 11.2.3 !!
+炫龙T3TI-9750H+1660TI 安装macOS Big Sur 11.3.1 !!
 ----
 
-已更新11.2.3
+已更新11.3.1
 ----
 
 
-已更新Open Core至0.6.7
+已更新Open Core至0.6.9
+----
+已定制USBMAP保证各端口正常运行
 ----
 
 建议更换无线网卡为DW1820A
